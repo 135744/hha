@@ -1,0 +1,7 @@
+{
+  "CustomInformation":[
+    {"id":"1","MerchantName":"小明午餐","TransPrice":"2.00","UnitPrice":"20","InitTransPrice":"20"},
+    {"id":"2","MerchantName":"小王午餐","TransPrice":"2.00","UnitPrice":"10","InitTransPrice":"30"} 
+
+  ]
+}
